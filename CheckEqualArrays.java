@@ -4,7 +4,7 @@ public class CheckEqualArrays {
 
 	public static void main(String[] args) {
 			int a1[] = {1,2,3,4};
-			int a2[]= {1,2,3,4};
+			int a2[]= {1,2,5,4};
 			int count = 0;
 			
 			for(int i=0;i<a1.length;i++) {
